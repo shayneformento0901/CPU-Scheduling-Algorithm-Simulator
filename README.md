@@ -1,4 +1,4 @@
-# 🚀 CPU-Scheduling-Algorithm-Simulator
+# CPU-Scheduling-Algorithm-Simulator
 
 Built using HTML for structure, CSS for styling, and JavaScript (ES6) for functionality.
 ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5)
@@ -7,13 +7,13 @@ Built using HTML for structure, CSS for styling, and JavaScript (ES6) for functi
 
 ---
 
-## 📌 Final Project – Platform Technologies
+##  Final Project – Platform Technologies
 
 A **CPU Scheduling Simulator** that demonstrates how **Priority Scheduling Algorithms** work in operating systems. This project supports both **Non-Preemptive** and **Preemptive Priority Scheduling**, allowing users to input processes and visualize scheduling results in real time.
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 This project aims to:
 
@@ -27,7 +27,7 @@ This project aims to:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ###  Input Section 
 ![image alt](https://github.com/shayneformento0901/CPU-Scheduling-Algorithm-Simulator/blob/5341ebe58974e496ad5107a7b6587d277c14d80b/input.png)
@@ -46,11 +46,11 @@ This project aims to:
 ![Gantt Chart](https://github.com/shayneformento0901/CPU-Scheduling-Algorithm-Simulator/blob/5341ebe58974e496ad5107a7b6587d277c14d80b/gantt%20chart(pre).png)
 ![Gantt Chart](https://github.com/shayneformento0901/CPU-Scheduling-Algorithm-Simulator/blob/5341ebe58974e496ad5107a7b6587d277c14d80b/gantt%20chart(non-preemptive).png)
 
-> 📌 Create a folder named `screenshots` and place your images there.
+> Create a folder named `screenshots` and place your images there.
 
 ---
 
-## ⚙️ Features
+## Features
 
 - ✔ Dynamic process input generation  
 - ✔ Non-Preemptive Priority Scheduling  
@@ -61,7 +61,7 @@ This project aims to:
 
 ---
 
-## 🖥️ Technologies Used
+##  Technologies Used
 
 - HTML  
 - CSS  
@@ -83,7 +83,7 @@ CPU-Scheduling-Algorithm-Simulator/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository  
    git clone https://github.com/your-username/CPU-Scheduling-Algorithm-Simulator.git  
@@ -95,7 +95,7 @@ CPU-Scheduling-Algorithm-Simulator/
 
 ---
 
-## 📋 How to Use
+##  How to Use
 
 1. Enter number of processes  
 2. Click Generate  
@@ -109,7 +109,7 @@ CPU-Scheduling-Algorithm-Simulator/
 
 ---
 
-## 🧠 Algorithm Overview
+##  Algorithm Overview
 
 ### 🔹 Non-Preemptive Priority Scheduling
 - Highest priority process runs first  
@@ -121,7 +121,7 @@ CPU-Scheduling-Algorithm-Simulator/
 
 ---
 
-## 📊 Output Explanation
+## Output Explanation
 
 | Term | Meaning |
 |------|--------|
@@ -135,14 +135,14 @@ CPU-Scheduling-Algorithm-Simulator/
 
 ---
 
-## 📈 Example Gantt Chart
+##  Example Gantt Chart
 
 | P1 | P2 | P3 |
 0    3    6    9
 
 ---
 
-## 🏥 Real-Life Application
+## Real-Life Application
 
 This is similar to a hospital emergency room system:
 
@@ -152,7 +152,7 @@ This is similar to a hospital emergency room system:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Shayne Formento  
 Final Project – Platform Technologies  
