@@ -32,17 +32,21 @@ This project aims to:
 ###  Input Section 
 ![image alt](https://github.com/shayneformento0901/CPU-Scheduling-Algorithm-Simulator/blob/5341ebe58974e496ad5107a7b6587d277c14d80b/input.png)
 
-### Process-input(Preemptive and Non-Preemptive)
+## Process-input
 
+### Preemptive
 ![image alt](https://github.com/shayneformento0901/CPU-Scheduling-Algorithm-Simulator/blob/5341ebe58974e496ad5107a7b6587d277c14d80b/process-input.png)
+### Non-Preemptive
 ![image alt](https://github.com/shayneformento0901/CPU-Scheduling-Algorithm-Simulator/blob/5341ebe58974e496ad5107a7b6587d277c14d80b/process-input(preemptive).png)
 
-### Result(Output)
+## Result(Output)
 
+### Non-Preemptive
 ![Result](https://github.com/shayneformento0901/CPU-Scheduling-Algorithm-Simulator/blob/5341ebe58974e496ad5107a7b6587d277c14d80b/result.png)
+### Preemptive
 ![Result](https://github.com/shayneformento0901/CPU-Scheduling-Algorithm-Simulator/blob/5341ebe58974e496ad5107a7b6587d277c14d80b/result(pre).png)
 
-#### Gantt Chart 
+## Gantt Chart 
 
 ### Preemptive
 ![Gantt Chart](https://github.com/shayneformento0901/CPU-Scheduling-Algorithm-Simulator/blob/5341ebe58974e496ad5107a7b6587d277c14d80b/gantt%20chart(pre).png)
