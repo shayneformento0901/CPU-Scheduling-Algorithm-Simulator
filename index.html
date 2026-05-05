@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Priority Scheduling Simulator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>Priority Scheduling Simulator</h2>
+
+<label>No. of Processes:</label>
+<input type="number" id="num" min="1">
+<button onclick="generateInputs()">Generate</button>
+
+<div id="inputs"></div>
+
+<br>
+
+<label for="Algorithm">Algorithm:</label>
+<select id="algo" onclick="loadOptions()">
+  <option value="" disabled selected hidden></option>
+  <option value="Non">Non-Preemptive</option>
+  <option value="Pre">Preemptive</option>
+</select>
+
+<br><br>
+
+<button onclick="runSimulation()">Run</button>
+
+<h3>Results</h3>
+
+<table id="table">
+<thead>
+<tr>
+  <th>PID</th><br>
+  <th>AT</th><br>
+  <th>BT</th><br>
+  <th>Priority</th>
+  <th>CT</th><br>
+  <th>TAT</th><br>
+  <th>WT</th>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
+
+<p id="avg"></p>
+
+<h3>Gantt Chart</h3>
+<pre id="gantt"></pre>
+
+<script src="script.js"></script>
+</body>
+</html>
