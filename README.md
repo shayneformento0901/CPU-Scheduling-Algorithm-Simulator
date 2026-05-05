@@ -34,9 +34,9 @@ This project aims to:
 
 ## Process-input
 
-### Preemptive
-![image alt](https://github.com/shayneformento0901/CPU-Scheduling-Algorithm-Simulator/blob/5341ebe58974e496ad5107a7b6587d277c14d80b/process-input.png)
 ### Non-Preemptive
+![image alt](https://github.com/shayneformento0901/CPU-Scheduling-Algorithm-Simulator/blob/5341ebe58974e496ad5107a7b6587d277c14d80b/process-input.png)
+### Preemptive
 ![image alt](https://github.com/shayneformento0901/CPU-Scheduling-Algorithm-Simulator/blob/5341ebe58974e496ad5107a7b6587d277c14d80b/process-input(preemptive).png)
 
 ## Result(Output)
