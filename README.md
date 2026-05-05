@@ -42,8 +42,12 @@ This project aims to:
 ![Result](https://github.com/shayneformento0901/CPU-Scheduling-Algorithm-Simulator/blob/5341ebe58974e496ad5107a7b6587d277c14d80b/result.png)
 ![Result](https://github.com/shayneformento0901/CPU-Scheduling-Algorithm-Simulator/blob/5341ebe58974e496ad5107a7b6587d277c14d80b/result(pre).png)
 
-#### Gantt Chart  
+#### Gantt Chart 
+
+### Preemptive
 ![Gantt Chart](https://github.com/shayneformento0901/CPU-Scheduling-Algorithm-Simulator/blob/5341ebe58974e496ad5107a7b6587d277c14d80b/gantt%20chart(pre).png)
+
+### Non-Preemptive
 ![Gantt Chart](https://github.com/shayneformento0901/CPU-Scheduling-Algorithm-Simulator/blob/5341ebe58974e496ad5107a7b6587d277c14d80b/gantt%20chart(non-preemptive).png)
 
 > Create a folder named `screenshots` and place your images there.
